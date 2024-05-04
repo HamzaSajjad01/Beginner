@@ -1,0 +1,370 @@
+ HTML( Hyper Text MarkUp Language )
+1:  BASIC STRUCTURE 
+2:  DOCTYPE
+3:  ELEMENT AND ATTRIBUTES
+4:  INDENTATION
+5:  COMMENT
+6:  HEADING (1 TO 6)
+7:  PARAGRAPH
+8:  HTML FORMATTING
+9:  QUOTATION AND CITATION
+10: ADDRESS, CITE TAG
+11: LINK( local link ,email link ) etc
+12: IMAGE,MARQUEE TAG 
+13: Un-Order List , Order-List , Description-List 
+14: TABLE /NESTED TABLE TAG
+15: DIV TAG,SPAN TAG
+16: IFRAME TAG
+17: AUDIO/VIDEO TAG
+18: PDF SHOW BY THREE TAGS /METHODS
+    1) embed  <---)
+    2) object <---)    
+    3) iframe <---)
+19: EMBED YOUTUBE VIDEO
+20: EMBED GOOGLE MAP
+21: HTML ENTITIES
+22: HTML EMOJIS
+23: HTML SYMBOLS
+24: USE-IMAGE-MAP
+25: FORM TAG 
+26: MAXIMUM LENGTH,STEP,SIZE
+27: TEXTAREA
+28: LABEL,FIELDSET,LEGEND
+29: FAVICON
+30: CSS LINK
+31: <meta name="description" content="This is about html">
+    <meta name="keyword" content="HTML,CSS,JAVASCRIPT,REACT-JS">
+    <meta name="robots" content="index,follow"> 
+32: HTML VALIDATOR
+33: KEEP LEARNING
+
+<<<<------------------------------------------------------->>>>
+
+
+CSS (CASCADING STYLE SHEET)
+
+1:  CSS SYNTAX
+2:  ADD CSS /EXTERNAL/INTERNAL/INLINE
+3:  CSS SELECTORS /ELEMENT/ID/CLASS
+4:  CSS COMMENT
+    COLOR
+5:  BACKGROUND/ADD MULTIPLE BACKGROUND/TRANSPARENT BACKGROUND
+6:  BORDER FULL CONCEPT
+7:  HEIGHT/MIN HEIGHT,MAX HEIGHT
+8:  WIDTH/MIN WIDTH,MAX WIDTH
+9:  PADDING
+10: MARGIN
+11: BOX MODEL
+12: TEXT / TEXT SHADOW
+13: LINK /LINK/VISITED/HOVER/ACTIVE
+14: GOOGLE FONTS
+    .font family
+    .font variant
+    .font style
+    .font size
+    .font weight
+15: GOOGLE FONTS DIRECT LINK
+16: GOOGLE FONTS DOWNLOAD AND THEN LINK
+17: CSS UNITS
+       ------------------------------------------------
+                  ABSOLUTE            RELATIVE
+                  Independent           dependent
+                  .cm                  .Em        
+                  .mm                  .Rem 
+                  .inch                .% 
+                  .px(1in=96px)        .Vh
+                  .pt(1in=72pt)        .Vw
+                  .pc  
+       -------------------------------------------------
+18: CSS CURSOR
+19: CSS IMPORTANT
+20: BOX SHADOW
+21: CSS OPACITY
+22: CSS FILTER
+23: IMAGE SPRITE
+24: CSS GRADIENT
+    .linear gradiant
+    .radial gradiant
+25: OVERFLOW/ X-AXIS /Y-AXIX
+26: CSS RESIZABLE
+27: CSS LISTS /LIST STYLE POSITION/LIST STYLE IMAGE/LIST STYLE TYPE
+28: CSS TABLE CREATE HOW
+29: CSS FUNCTION CALC(), VAR()
+30: BOX SIZING        
+31: INITIAL / INHERIT    
+32: OBJECT FIT/ OBJECT POSITION
+33: PSEUDO CLASSES/ ELEMENT
+34: DISPLAY
+    ----->inline
+    ----->block
+    ----->inline-block
+    ----->none
+35: VISIBILITY
+36: POSITION
+    ----->Relative 
+    ----->Static (by default)
+    ----->Absolute(Parent must be relative) 
+    ----->Fixed
+37: LAYERS AND Z-INDEX
+38: FLOAT / CLEAR
+39: TRANSFORM 
+     2-DIMENSIONAL 
+    ----->skew(X-axis,Y-axis) value in degree 
+    ----->Translate(x-axis, Y-axis )value in pixel
+    ----->Rotate(X-axis) value in degree
+    ----->Scale(width * value, height * value)value in pixel
+    3-DIMENSIONAL 
+    ----->Rotate3d()
+    ----->Translate3d()
+    ----->Skew(X degree, Y degree)
+    ----->Scale(X-axis,Y-axis,Z-axis)
+
+40: TRANSITION 
+41: ANIMATION
+42: @MEDIA screen
+43: @MEDIA print
+44: VIEWPORT meta
+45: ADVANCED SELECTORS
+    ----->Element Selector
+    ----->Class Selector
+    ----->Id Selector
+    ----->Pseudo Class Selector (:)
+    ----->Pseudo Element Selector (::)
+    ----->Attribute Selector 
+    ----->Universal Selector
+    ----->Add Selector
+46: COLUMN
+47: FLEX
+48: GRID (but unfortunately this concept is not learn)
+    <<<<------------------ keep learning ------------------>>>>
+    
+    BOOTSTRAP(front end frame work)
+1: RESPONSIVENESS
+2: BREAK POINTS
+   --->Extra small (0  575PX )
+   --->Small ( 576 To 767px )
+   --->Medium ( 768 To 991px )
+   --->Large (992 To 1199px)
+   --->Extra Large (1200 To 1399px)
+   --->Extra Extra large(>=1400px)    
+3: div.container>div.row>div.col>div.content
+4: div.container>div.row>div.col>div.row>div.col>div.content
+5: Offset 
+6: ADD ICONS
+    <<<<------------------------------------------------>>>>
+    JAVASCRIPT()
+1: What is Javascript ?
+2: Why was Javascript born ?
+3: What is Ecma? 1961 launched
+4: What is Ecma-262 ?
+5: What is Ecma_Script ?
+5.1: What is ES?
+     ES1 ---->1997
+     ES4 ---->Neglect
+     ES5 -----> Also famous
+     ES6 .....>Most famous
+     ECMA-262 5.1 edition, June 2011
+     ECMA-262, 6th edition, June 2015
+     ECMA-262, 7th edition, June 2016
+     ECMA-262, 8th edition, June 2017
+     ECMA-262, 9th edition, June 2018
+     ECMA-262, 10th edition, June 2019
+     ECMA-262, 11th edition, June 2020
+     ECMA-262, 12th edition, June 2021
+
+6:  Ecma Script Specification? 
+7:  JavasCript Documentation ?
+8:  First Programme Of "Hello world"
+9:  Statement/Comment
+10: Var/Let/Const 
+    Primitive type(String,Number)
+    Reference type(object,array)
+11: Operators
+    ....>Unary Operators
+    ....>Binary Operators
+    ....>Relational Operators
+    ....>Logical Operators
+    ....>Arithmetic Operators
+    ....>Compound Assignment Operator
+    ....>Compound Assignment Expression
+    ....>Ternary Operator
+12: Data Type
+    typeof(check the type of the data which type of data is to be stored in the variable)
+    ....>Number
+    ....>Boolean
+    ....>String
+13: Template literal  ...>  ${}
+14: Conditional Statement
+15: Switch Statement	
+16: BREAK/CONTINUE Statement
+17: Alert/Prompt/Confirm Function
+18: Data Type 
+    Implicit Conversion(automatic) 
+    Explicit Conversion(Manual)
+19: Escape Sequence
+20: String Manipulation
+       length (this keyword find length of the variable)
+       Concatenation Method()
+       Substring Method() (start Point, last Point)
+       IndexOf Method()
+       Trim Method()
+       Split Method()
+       ToUpperCase Method()
+       ToLowerCase Method()
+       Replace Method() 
+       Includes Method()    
+21: Array		
+       Push Method()
+       Unshift Method()
+       Pop Method()
+       Shift Method()
+       Splice Method()
+       Array.isArray()  
+       Join Method()
+       ForEach Method() It is used to retrieve elements of an array without condition
+22: Function
+     Parameter pass a variable
+     Argument pass 	a value 
+     Arguments object/ No need of Parameters	
+     Return Keyword
+     Local/Global Variable  
+     Anonymous Function
+     SetTimeOut Funtion    
+     Immediately Invoked Function
+23: Object
+     Object elements accessed in two ways
+     1) Dot (.) 
+     2) Array ([])
+     Delete keyword in Object;
+     Methods in Object
+     This Keyword in Object
+24: Math Object
+    Math object consists of many different methods     
+    Date object /get
+    New Keyword
+    Getter and setter    
+    Nested Object  
+25: Use Strict
+26: Hoisting          
+27: DOM
+    Element Selector
+    Id Selector
+    Class Selector
+28: Traversing       
+29: Create Element 
+    createTextNode
+    append child
+30: getComputedStyle
+31: DOM Events
+    inline events .... initially start with on(function_name)
+    addEventListener passed two parameter ('event', function_name)   
+    RemoveEventListener  //         //           //        // 
+    DOMContentLoaded load only html in the page not the external links (css,javascript) etc
+    load event reload the overall page with external links also               //
+32: Mouse Events     
+   ontextmenu ---for right mouse button
+   ondblclick ---double click button
+      onclick 
+      onmousedown
+      onmouseup
+      onmouseover
+      onmouseout
+      wheel
+      scroll
+33: Keyboard Events 
+      keydown
+      keyup
+34: Input Events (is used for form tag)
+      focus
+      blur
+      change direct change not possible  (this.value)
+      input  direct chage possible
+35: Event Bubbling ... flow (Start from Child and go to Parent)
+36: Event Capturing... flow (Start from Parent and go to Child)
+      stopPropagation();
+      Prevent Default(); change the natural behvaior of the element
+37: BOM  (Browser Object Model)
+    Window.open() Method
+    Window.close() Method
+38: setTimeOut clearTimeout()
+39: TimeInterval  cleartimeinterval()         
+
+     <---------------Small Projects---------------->
+40: EcmaScript 6 (ES6)
+41: Let/Const/Var 
+42: Default Parameter
+43: Rest Parameter
+    (...) operator this is used for two purpose 
+        1) Is  to be used for anonymous parameter / Rest parameter 
+        2) Is to be used for spread operator     used to pasTe array object  
+45: For of loop / For Each loop/ For in loop /For loop/while loop/do while loop
+46: Template literal
+47: Array Destructing	   
+48: Object Destructing
+49: Modules
+50: OOP Concept
+    Object
+    Class  
+    static keyword (to access method with class name not call by object)
+    Inheritance
+     simple
+     multilevel
+     multiple
+     access Specifiers
+     public (write method or varibale direct) 
+     private (# before the method or varibale)
+    Encapsulation 
+    Polymorphism
+51: Arrow function
+52: Callback function 
+53: Map Function
+54: Filter Function
+55: Cookie
+56: Local storage vs session storage
+57: Javascript object notation (JSON)
+58: AJAX concept
+    create object of xmlHttpRequest
+    xhr.open('method','url',asynchronious=true)
+    xhr.progress()
+    xhr.onload()
+    xhr.send()       
+<-----------------------------------------> 
+    
+
+   <<<.....................REACT JS...................>>>   
+1: React is a javascript library used for creating a User Interfaces and also a component base approach 
+   creating a  Single Page Applications
+2: ES6 Revision
+   Download and install Node Js
+   check npm and then npx in cmd
+3: Components in React
+   so we built components with html css and javascript and then by combining these components we create a page 
+4: File Structure
+  .............. 
+  gitignore and README.md this is for github 
+  ..............
+  package.json and package-lock.json used for node_js and node_Modules any changes will be store here automatically in these 3 files
+  ..............
+                  ...................START.................
+
+1: What is CreateRoot Function
+The createRoot() function takes one argument, an HTML element.
+The purpose of the function is to define the HTML element where a React component should be displayed.
+2: Render function used for
+The render() method is then called to define the React component that should be rendered.
+But render where?
+3: Single Component in React
+4: Multiple Component in React
+6: Nested Component
+6: Component in Files
+5: What is JSX ... its a 99 % html code inside the js extension
+5: What is Export and Export_default
+6: What is Prop and what is PropTypes and what is default props 
+7: What is Props
+In React, props is a short form for “properties”. It is an object that stores the value of attributes of a tag and works similar to the HTML attributes. Props are used to pass data from a parent component to a child component in React and they are the main mechanism for component communication. The data flow is unidirectional, which means that props pass the data in one way from the parent to the child 1 2 3 . 
+8:Array in React Js used  
+8:How To Handle Input In React
+8: what is Hook
+It is a specific function used for to access React Features to functional component and it is used instead of DOM Events 
+1)useState hook 
+2)useEffect   
