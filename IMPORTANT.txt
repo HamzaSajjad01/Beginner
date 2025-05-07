@@ -1,4 +1,4 @@
- HTML( Hyper Text MarkUp Language )
+ HTML5( Hyper Text MarkUp Language )
 1:  BASIC STRUCTURE 
 2:  DOCTYPE
 3:  ELEMENT AND ATTRIBUTES
