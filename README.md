@@ -1,1 +1,2 @@
-this is a begginner repository (Hamza Sajjad)
+this is a begginner repository 
+Author: Hamza Sajjad
