@@ -1,3 +1,3 @@
-this is a begginner repository 
+# this is a begginner repository 
 <br>
 Author: Hamza Sajjad
